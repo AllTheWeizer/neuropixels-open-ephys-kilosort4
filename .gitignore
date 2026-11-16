@@ -1,0 +1,12 @@
+# Raw acquisition data and outputs must remain local; don't push to GitHub.
+/test_data/
+*.zip
+*.dat
+*.npy
+*.npz
+*.oebin
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+*.pyc

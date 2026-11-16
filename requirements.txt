@@ -1,0 +1,13 @@
+# Notebook frontend and scientific Python environment
+ipykernel
+numpy
+pandas
+scipy
+matplotlib
+packaging
+# SpikeInterface includes recording loaders, preprocessing and sorter integration.
+spikeinterface[full]
+# Notebook S4 checks and launches Docker on the host.
+docker
+# For the archive preflight tests
+pytest
